@@ -30,7 +30,7 @@
         "php": ">=5.4",
         "ext-curl": "*",
         "ext-json": "*",
-        "psr/log": "~3.0",
+        "psr/log": "~1.0",
         "psr/http-message": "~1.0",
         "zendframework/zend-diactoros": "^1.3"
     },
